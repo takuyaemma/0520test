@@ -2,3 +2,4 @@
 aaaaadd
 123
 masterTest1
+インデックスの状態を記録する
