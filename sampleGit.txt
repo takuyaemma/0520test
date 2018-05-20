@@ -2,3 +2,4 @@
 aaaaadd
 123
 masterTest1
+リモートリポジトリの内容を取得する
